@@ -36,7 +36,7 @@ admin.py
 
 from django.contrib import admin
 form.models import employee,employeeadmin
-admin.site.register(Employee,EmployeeAdmin) ```
+admin.site.register(Employee,EmployeeAdmin) 
 
 
 
