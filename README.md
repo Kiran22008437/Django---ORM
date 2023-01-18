@@ -18,7 +18,7 @@ Include your ER diagram here
 Write your own steps
 
 ## PROGRAM
-	Model.py
+```	Model.py
 
 from django.db import models
 form django.contrib import admin
@@ -36,7 +36,7 @@ admin.py
 
 from django.contrib import admin
 form.models import employee,employeeadmin
-admin.site.register(Employee,EmployeeAdmin)
+admin.site.register(Employee,EmployeeAdmin) ```
 
 
 
