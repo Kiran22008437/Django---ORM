@@ -41,6 +41,7 @@ admin.site.register(Employee,EmployeeAdmin) ```
 
 
 ## OUTPUT
+
 ![kiran 22008437 ](https://user-images.githubusercontent.com/118668751/213098097-3a65007f-f467-4a82-99a5-0a460b1c1438.png)
 
 Include the screenshot of your admin page.
